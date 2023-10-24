@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varuna</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw0t7MezY2s72BrMUWl7bWqG&ust=1698218050282000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDHkrSRjoIDFQAAAAAdAAAAABAE)
+https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw0t7MezY2s72BrMUWl7bWqG&ust=1698218050282000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDHkrSRjoIDFQAAAAAdAAAAABAE)](https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1698131756~exp=1698132356~hmac=a865da50fbd473e44443838bc7d15b7da8240b4da7c1669a35d6730c07743eca)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varuna89&label=Profile%20views&color=0e75b6&style=flat" alt="varuna89" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varuna89" alt="varuna89" /></a> </p>
