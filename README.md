@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varuna</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-![image](https://github.com/Varuna89/Varuna89/assets/108572813/22718208-ec25-4084-a61c-49e5cd687fdb)
+https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1698131863~exp=1698132463~hmac=fbac7bf768aae7eef8ddfdd8191428a5fc40af2b221175c489c7e539e3ca1c04
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varuna89&label=Profile%20views&color=0e75b6&style=flat" alt="varuna89" /> </p>
 
