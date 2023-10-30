@@ -3,6 +3,4 @@
 	
 
 
-- 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **React**
